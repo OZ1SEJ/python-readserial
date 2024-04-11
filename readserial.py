@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Package pyserial needed for this - https://pypi.org/project/pyserial/ - pip install pyserial
 import serial,datetime,os
 
 #ser = serial.Serial('COM1',9600)		# Windows
